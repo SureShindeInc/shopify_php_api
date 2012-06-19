@@ -1,3 +1,9 @@
+# DEPRECATION
+
+This library is currently deprecated due to lack of maintenance, and because there are
+now great alternatives available.  Alternative Shopify PHP libraries can be found on
+the [PHP section of the Shopify APP Development](http://wiki.shopify.com/Shopify_App_Development#.E2.80.9CI.E2.80.99m_a_PHP_developer.E2.80.9D) page on the Shopify Wiki.
+
 ## AUTHOR
 William Lang (william [at] shopify [dot] com)
 
